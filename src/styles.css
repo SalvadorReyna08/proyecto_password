@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+body{
+    background: linear-gradient(90deg,#052924,#0C705D,#052924);
+    margin:0;
+    padding: 0;
+    height: 100vh;
+    position: relative;
+}
+
+#titulo{
+    color:white;
+    text-align: center;
+}
+
+#div1{
+    background:linear-gradient(180deg,#76DFBE, #EDFCF6,#76DFBE);
+    text-align: center;
+    margin: 1.5%;
+}
+
+#div2{
+    justify-content: center;
+}
+
+#form1{
+    text-align: center;
+}
+
+#generarC{
+    margin-right: 1%;
+}
